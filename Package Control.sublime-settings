@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CoffeeScriptHaml",
+		"Color Highlighter",
+		"CSScomb",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"Highlight",
+		"HTML-CSS-JS Prettify",
+		"JavaScript Completions",
+		"Kickoff Snippets",
+		"Package Control",
+		"Razor",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-jslint",
+		"SublimeLinter-contrib-scss-lint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php"
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"disable_completions": false,
+	"show_css_completions": true,
+
+	"preferences": {
+		"css.propertyEnd": ";",
+		"sass.propertyEnd": ";"
+	}
+}
