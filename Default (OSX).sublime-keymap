@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+alt+v"], "command": "clipboard_commands_paste_plain_text" },
+	{ "keys": ["super+k", "super+t"], "command": "title_case" }
+]
